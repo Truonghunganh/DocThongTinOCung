@@ -1,0 +1,12 @@
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\bin\Debug\DocThongTinOCung.exe.config
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\bin\Debug\DocThongTinOCung.exe
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\bin\Debug\DocThongTinOCung.pdb
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.csprojAssemblyReference.cache
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.Properties.Resources.resources
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.csproj.GenerateResource.cache
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.csproj.CoreCompileInputs.cache
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.exe
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.pdb
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.Form1.resources
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.OCung.resources
+F:\KY1NAM5\laptrinhNET\baitap\DocThongTinOCung\DocThongTinOCung\obj\Debug\DocThongTinOCung.ODia.resources
